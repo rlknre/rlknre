@@ -1,4 +1,4 @@
-<h1> Musta? Tuloy po kayo. 👋🏼</h1>
+<h1> Musta? 👋🏼</h1>
 <p> I am Ralph, a <b>software developer</b> who is fascinated by frontend development, data science, machine learning, 
   and geographic technologies. I am a graduate from University of the Philippines Los Baños with a degree in Computer Science.
 </p>
