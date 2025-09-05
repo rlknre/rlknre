@@ -11,12 +11,12 @@
     - <i>coming soon!</i>
   </li>
   <li>
-    <a href="https://youtu.be/BSIhdarQqhY"> NONA</a> 
+    <a href="https://youtu.be/BSIhdarQqhY" target="_blank" rel="noopener noreferrer"> NONA</a> 
     - a project built with MERN and Python, powered by an NLP model to map announced service interruptions.
     This is my final project which was presented in the 2025 Institute of Computer Science Research Symposium.
   </li> 
   <li>
-    <a href="https://icsc.ngo/young-professionals-develop-innovative-solutions-for-walkable-streets/"> TULAY</a>
+    <a href="https://icsc.ngo/young-professionals-develop-innovative-solutions-for-walkable-streets/" target="_blank" rel="noopener noreferrer"> TULAY</a>
     - I am one of the developers who participated in the Hack-a-Street hackathon challenge and built a data-driven
     GIS application for assessing urban accessibility, safety, and mobility.
   </li>
